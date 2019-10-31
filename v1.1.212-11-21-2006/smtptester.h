@@ -1,0 +1,1 @@
+#DEFINE crlf CHR(13)+CHR(10)
